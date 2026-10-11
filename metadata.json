@@ -1,0 +1,6 @@
+{
+  "name": "DMY Attendence",
+  "description": "Employee GPS attendance tracking app with GPS camera verification, shift duration rules, admin reporting, and live employee location tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
